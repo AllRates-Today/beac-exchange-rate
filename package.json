@@ -1,0 +1,57 @@
+{
+  "name": "beac-exchange-rate",
+  "version": "1.2.7",
+  "description": "Official Bank of Central African States (BEAC) (Central Africa (CEMAC)) daily exchange rates — 13 currencies vs XAF, current table, archive from 2026. Zero-dependency Node.js/TypeScript client.",
+  "keywords": [
+    "beac",
+    "bank",
+    "of",
+    "central",
+    "african",
+    "states",
+    "(beac)",
+    "exchange-rate",
+    "exchange-rates",
+    "currency",
+    "forex",
+    "fx",
+    "xaf",
+    "central-bank",
+    "official-rates",
+    "central-africa-(cemac)",
+    "api",
+    "typescript"
+  ],
+  "homepage": "https://allratestoday.com/central-bank-rates-api/beac/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllRates-Today/beac-exchange-rate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AllRates-Today/beac-exchange-rate/issues"
+  },
+  "license": "MIT",
+  "author": "AllRatesToday <hello@allratestoday.com> (https://allratestoday.com)",
+  "type": "module",
+  "main": "./index.cjs",
+  "module": "./index.mjs",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.mjs",
+      "require": "./index.cjs"
+    }
+  },
+  "files": [
+    "index.mjs",
+    "index.cjs",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "sideEffects": false
+}
