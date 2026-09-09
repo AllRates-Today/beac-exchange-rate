@@ -1,6 +1,6 @@
 {
   "name": "beac-exchange-rate",
-  "version": "1.2.7",
+  "version": "1.3.0",
   "description": "Official Bank of Central African States (BEAC) (Central Africa (CEMAC)) daily exchange rates — 13 currencies vs XAF, current table, archive from 2026. Zero-dependency Node.js/TypeScript client.",
   "keywords": [
     "beac",
