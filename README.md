@@ -85,10 +85,10 @@ const pair = await getRate('USD', 'XAF', { apiKey: 'art_live_...' });
 {
   bank: 'beac',
   name: 'Bank of Central African States (BEAC)',
-  rate_date: '2026-09-09',   // Bank of Central African States (BEAC)'s own publication date
+  rate_date: '2026-09-25',   // Bank of Central African States (BEAC)'s own publication date
   source: 'USD',
   target: 'XAF',
-  rate: 566.6562,
+  rate: 579.1472,
   rate_type: 'sell',
   derived: false,
   method: 'published',
@@ -113,10 +113,10 @@ console.log(table.rate_date, table.rates.length);
 {
   bank: 'beac',
   name: 'Bank of Central African States (BEAC)',
-  rate_date: '2026-09-09',
+  rate_date: '2026-09-25',
   rates: [
-    { "base": "USD", "quote": "XAF", "type": "sell", "value": 566.6562 },
-    { "base": "USD", "quote": "XAF", "type": "buy", "value": 561.8224 },
+    { "base": "USD", "quote": "XAF", "type": "sell", "value": 579.1472 },
+    { "base": "USD", "quote": "XAF", "type": "buy", "value": 574.2173 },
     // … the rest of the published table (13 currencies vs XAF)
   ],
   disclaimer: '…'
@@ -156,7 +156,7 @@ Paid plans. One resolved rate per publication date — ready for charting, reval
 import { getHistory } from 'beac-exchange-rate';
 
 const series = await getHistory(
-  { source: 'USD', target: 'XAF', from: '2026-01-01', to: '2026-09-09' },
+  { source: 'USD', target: 'XAF', from: '2026-01-01', to: '2026-09-25' },
   { apiKey: 'art_live_...' }
 );
 ```
@@ -169,11 +169,11 @@ const series = await getHistory(
   source: 'USD',
   target: 'XAF',
   from: '2026-01-01',
-  to: '2026-09-09',
+  to: '2026-09-25',
   count: 152,
   rates: [
     // one entry per publication date
-    { date: '2026-09-09', rate: 566.6562, rate_type: 'sell', derived: false, method: 'published' },
+    { date: '2026-09-25', rate: 579.1472, rate_type: 'sell', derived: false, method: 'published' },
     // …
   ],
   disclaimer: '…'
