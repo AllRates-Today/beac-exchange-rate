@@ -4,6 +4,8 @@
 [![license](https://img.shields.io/npm/l/beac-exchange-rate.svg)](https://github.com/AllRates-Today/beac-exchange-rate/blob/main/LICENSE)
 [![zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](https://www.npmjs.com/package/beac-exchange-rate)
 [![TypeScript](https://img.shields.io/badge/TypeScript-types%20included-3178C6.svg)](https://www.typescriptlang.org/)
+[![USD/XAF today](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fallratestoday.com%2Fapi%2Fopen%2Fcentral-bank%2Fbeac%3Fsource%3DUSD%26target%3DXAF&query=%24.rate&label=USD%2FXAF%20published%20by%20Bank%20of%20Central%20African%20States%20(BEAC)&color=0A7E8C&cacheSeconds=3600)](https://allratestoday.com/central-bank-rates-api/beac/)
+[![rate date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fallratestoday.com%2Fapi%2Fopen%2Fcentral-bank%2Fbeac%3Fsource%3DUSD%26target%3DXAF&query=%24.rate_date&label=rate%20date&color=555&cacheSeconds=3600)](https://allratestoday.com/central-bank-rates-api/beac/)
 
 **Official Bank of Central African States (BEAC) (Central Africa (CEMAC)) daily exchange rates for Node.js and TypeScript. The published central bank rates behind tax filings, customs valuations, audits, and compliant invoicing — not market estimates, but the numbers Bank of Central African States (BEAC) itself prints, every business day.**
 
@@ -32,6 +34,45 @@ console.log(r.rate_date, r.rates.length); // the central bank's latest published
 ```
 
 The open endpoint serves the *latest* table only and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables, history, and CSV/XML/Excel output.
+
+## 📈 Latest published table
+
+Today's full Bank of Central African States (BEAC) table, straight from the central bank's latest publication. On GitHub it is refreshed by [a daily Action](.github/workflows/daily-table.yml) that reads the keyless endpoint above and commits only when the central bank publishes a new table; the copy on npm is as of the package's publish date.
+
+<!-- daily-table:start -->
+Published **2026-10-08** by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-08.
+
+| Base | Quote | Type | Rate |
+| --- | --- | --- | ---: |
+| AED | XAF | buy | 158.7984 |
+| AED | XAF | sell | 160.3982 |
+| CAD | XAF | buy | 409.2636 |
+| CAD | XAF | sell | 413.4027 |
+| CHF | XAF | buy | 700.2073 |
+| CHF | XAF | sell | 707.3129 |
+| CNY | XAF | buy | 87.0004 |
+| CNY | XAF | sell | 87.917 |
+| DKK | XAF | buy | 87.3229 |
+| DKK | XAF | sell | 88.204 |
+| EUR | XAF | buy | 655.957 |
+| EUR | XAF | sell | 655.957 |
+| GBP | XAF | buy | 769.7755 |
+| GBP | XAF | sell | 777.5761 |
+| JPY | XAF | buy | 3.6883 |
+| JPY | XAF | sell | 3.7255 |
+| MAD | XAF | buy | 58.491 |
+| MAD | XAF | sell | 59.0926 |
+| SAR | XAF | buy | 155.3549 |
+| SAR | XAF | sell | 156.9387 |
+| SEK | XAF | buy | 58.2196 |
+| SEK | XAF | sell | 58.8153 |
+| USD | XAF | buy | 584.1053 |
+| USD | XAF | sell | 589.1186 |
+| ZAR | XAF | buy | 34.9123 |
+| ZAR | XAF | sell | 35.2767 |
+
+Source: [Official rates published by BEAC, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/beac/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
+<!-- daily-table:end -->
 
 ## 🔑 Get your API key
 
