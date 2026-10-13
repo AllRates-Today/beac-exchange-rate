@@ -42,36 +42,36 @@ The open endpoint serves the *latest* table only and asks for a visible attribut
 The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The text copy below is there for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-12** by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-12.
+Published **2026-10-13** by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-13.
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 158.5901 |
-| AED | XAF | sell | 160.1839 |
-| CAD | XAF | buy | 408.6 |
-| CAD | XAF | sell | 412.735 |
-| CHF | XAF | buy | 700.3651 |
-| CHF | XAF | sell | 707.4646 |
-| CNY | XAF | buy | 87.0109 |
-| CNY | XAF | sell | 87.9228 |
-| DKK | XAF | buy | 87.3182 |
-| DKK | XAF | sell | 88.2005 |
+| AED | XAF | buy | 158.9067 |
+| AED | XAF | sell | 160.5037 |
+| CAD | XAF | buy | 409.0892 |
+| CAD | XAF | sell | 413.2317 |
+| CHF | XAF | buy | 700.4778 |
+| CHF | XAF | sell | 707.5861 |
+| CNY | XAF | buy | 87.1351 |
+| CNY | XAF | sell | 88.0521 |
+| DKK | XAF | buy | 87.31 |
+| DKK | XAF | sell | 88.1911 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 771.4222 |
-| GBP | XAF | sell | 779.2213 |
-| JPY | XAF | buy | 3.6762 |
-| JPY | XAF | sell | 3.7134 |
-| MAD | XAF | buy | 59.7514 |
-| MAD | XAF | sell | 60.3763 |
-| SAR | XAF | buy | 155.0818 |
-| SAR | XAF | sell | 156.6627 |
-| SEK | XAF | buy | 58.2467 |
-| SEK | XAF | sell | 58.8425 |
-| USD | XAF | buy | 582.2313 |
-| USD | XAF | sell | 587.2381 |
-| ZAR | XAF | buy | 35.2981 |
-| ZAR | XAF | sell | 35.667 |
+| GBP | XAF | buy | 771.8876 |
+| GBP | XAF | sell | 779.7098 |
+| JPY | XAF | buy | 3.6894 |
+| JPY | XAF | sell | 3.7266 |
+| MAD | XAF | buy | 60.1014 |
+| MAD | XAF | sell | 60.7071 |
+| SAR | XAF | buy | 155.3883 |
+| SAR | XAF | sell | 156.9686 |
+| SEK | XAF | buy | 58.2836 |
+| SEK | XAF | sell | 58.8793 |
+| USD | XAF | buy | 583.7389 |
+| USD | XAF | sell | 588.7541 |
+| ZAR | XAF | buy | 35.3827 |
+| ZAR | XAF | sell | 35.7533 |
 
 Source: [Official rates published by BEAC, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/beac/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
