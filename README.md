@@ -33,45 +33,48 @@ const r = await fetch('https://allratestoday.com/api/open/central-bank/beac').th
 console.log(r.rate_date, r.rates.length); // the central bank's latest published table, no key
 ```
 
-The open endpoint serves the *latest* table only and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables, history, and CSV/XML/Excel output.
+The open endpoint serves the *latest* table only (JSON by default; add `?format=csv`, `xml` or `xlsx` for a file) and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables and history.
 
 ## 📈 Latest published table
 
 [![Latest Bank of Central African States (BEAC) table](https://allratestoday.com/api/open/central-bank/beac/table.svg)](https://allratestoday.com/central-bank-rates-api/beac/)
 
-The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The text copy below is there for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
+The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The same table as text is folded below for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-16** by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-16.
+<details>
+<summary>Table as text: published 2026-10-19 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-19.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 158.1443 |
-| AED | XAF | sell | 159.7375 |
-| CAD | XAF | buy | 409.9165 |
-| CAD | XAF | sell | 414.0648 |
-| CHF | XAF | buy | 703.1948 |
-| CHF | XAF | sell | 710.3309 |
-| CNY | XAF | buy | 86.8234 |
-| CNY | XAF | sell | 87.7426 |
-| DKK | XAF | buy | 87.3135 |
-| DKK | XAF | sell | 88.1946 |
+| AED | XAF | buy | 158.4014 |
+| AED | XAF | sell | 159.9973 |
+| CAD | XAF | buy | 412.8099 |
+| CAD | XAF | sell | 416.9904 |
+| CHF | XAF | buy | 705.9175 |
+| CHF | XAF | sell | 713.0738 |
+| CNY | XAF | buy | 87.0538 |
+| CNY | XAF | sell | 87.9687 |
+| DKK | XAF | buy | 87.317 |
+| DKK | XAF | sell | 88.1969 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 773.47 |
-| GBP | XAF | sell | 781.2992 |
-| JPY | XAF | buy | 3.6766 |
-| JPY | XAF | sell | 3.714 |
-| MAD | XAF | buy | 59.5351 |
-| MAD | XAF | sell | 60.1384 |
-| SAR | XAF | buy | 154.7656 |
-| SAR | XAF | sell | 156.3507 |
-| SEK | XAF | buy | 58.5628 |
-| SEK | XAF | sell | 59.1648 |
-| USD | XAF | buy | 581.8446 |
-| USD | XAF | sell | 586.8403 |
-| ZAR | XAF | buy | 35.3209 |
-| ZAR | XAF | sell | 35.6883 |
+| GBP | XAF | buy | 775.1971 |
+| GBP | XAF | sell | 783.0346 |
+| JPY | XAF | buy | 3.6827 |
+| JPY | XAF | sell | 3.7199 |
+| MAD | XAF | buy | 59.6848 |
+| MAD | XAF | sell | 60.3172 |
+| SAR | XAF | buy | 155.0229 |
+| SAR | XAF | sell | 156.6107 |
+| SEK | XAF | buy | 58.6629 |
+| SEK | XAF | sell | 59.2636 |
+| USD | XAF | buy | 579.8087 |
+| USD | XAF | sell | 584.7867 |
+| ZAR | XAF | buy | 35.3307 |
+| ZAR | XAF | sell | 35.7006 |
+
+</details>
 
 Source: [Official rates published by BEAC, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/beac/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
@@ -345,7 +348,8 @@ Need the whole archive rather than an API call? The same published tables are mi
 - [All central bank sources](https://allratestoday.com/central-bank-rates-api/)
 - [Package docs on the site](https://allratestoday.com/docs/sdk/beac-exchange-rate/) · [ERP integration guides](https://allratestoday.com/docs/integrations/)
 - [API documentation](https://allratestoday.com/docs/#central-bank) · [Interactive reference](https://allratestoday.com/api-reference/) · [Methodology](https://allratestoday.com/official-rates-methodology/)
-- [Register (free)](https://allratestoday.com/register) · [Pricing](https://allratestoday.com/pricing/)
+- [Register (Free)](https://allratestoday.com/register) · [Dashboard](https://allratestoday.com/profile) · [Pricing](https://allratestoday.com/pricing/)
+- [Status](https://allratestoday.com/status)
 - [GitHub](https://github.com/AllRates-Today/beac-exchange-rate)
 
 ## 📜 License
