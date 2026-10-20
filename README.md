@@ -43,36 +43,36 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-19 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-19.</summary>
+<summary>Table as text: published 2026-10-20 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-20.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 158.4014 |
-| AED | XAF | sell | 159.9973 |
-| CAD | XAF | buy | 412.8099 |
-| CAD | XAF | sell | 416.9904 |
-| CHF | XAF | buy | 705.9175 |
-| CHF | XAF | sell | 713.0738 |
-| CNY | XAF | buy | 87.0538 |
-| CNY | XAF | sell | 87.9687 |
-| DKK | XAF | buy | 87.317 |
-| DKK | XAF | sell | 88.1969 |
+| AED | XAF | buy | 158.2401 |
+| AED | XAF | sell | 159.8382 |
+| CAD | XAF | buy | 413.0371 |
+| CAD | XAF | sell | 417.2173 |
+| CHF | XAF | buy | 704.3938 |
+| CHF | XAF | sell | 711.5346 |
+| CNY | XAF | buy | 86.9807 |
+| CNY | XAF | sell | 87.9158 |
+| DKK | XAF | buy | 87.3182 |
+| DKK | XAF | sell | 88.1993 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 775.1971 |
-| GBP | XAF | sell | 783.0346 |
-| JPY | XAF | buy | 3.6827 |
-| JPY | XAF | sell | 3.7199 |
-| MAD | XAF | buy | 59.6848 |
-| MAD | XAF | sell | 60.3172 |
-| SAR | XAF | buy | 155.0229 |
-| SAR | XAF | sell | 156.6107 |
-| SEK | XAF | buy | 58.6629 |
-| SEK | XAF | sell | 59.2636 |
-| USD | XAF | buy | 579.8087 |
-| USD | XAF | sell | 584.7867 |
-| ZAR | XAF | buy | 35.3307 |
-| ZAR | XAF | sell | 35.7006 |
+| GBP | XAF | buy | 776.0082 |
+| GBP | XAF | sell | 779.097 |
+| JPY | XAF | buy | 3.6764 |
+| JPY | XAF | sell | 3.7136 |
+| MAD | XAF | buy | 59.4283 |
+| MAD | XAF | sell | 60.0261 |
+| SAR | XAF | buy | 154.9309 |
+| SAR | XAF | sell | 156.5028 |
+| SEK | XAF | buy | 58.7236 |
+| SEK | XAF | sell | 59.3244 |
+| USD | XAF | buy | 581.5964 |
+| USD | XAF | sell | 586.5835 |
+| ZAR | XAF | buy | 35.4618 |
+| ZAR | XAF | sell | 35.8345 |
 
 </details>
 
