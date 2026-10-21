@@ -47,36 +47,36 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-20 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-20.</summary>
+<summary>Table as text: published 2026-10-21 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-21.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 158.2401 |
-| AED | XAF | sell | 159.8382 |
-| CAD | XAF | buy | 413.0371 |
-| CAD | XAF | sell | 417.2173 |
-| CHF | XAF | buy | 704.3938 |
-| CHF | XAF | sell | 711.5346 |
-| CNY | XAF | buy | 86.9807 |
-| CNY | XAF | sell | 87.9158 |
-| DKK | XAF | buy | 87.3182 |
-| DKK | XAF | sell | 88.1993 |
+| AED | XAF | buy | 158.3745 |
+| AED | XAF | sell | 159.9701 |
+| CAD | XAF | buy | 413.7651 |
+| CAD | XAF | sell | 417.9527 |
+| CHF | XAF | buy | 705.0558 |
+| CHF | XAF | sell | 712.2188 |
+| CNY | XAF | buy | 87.0538 |
+| CNY | XAF | sell | 87.9968 |
+| DKK | XAF | buy | 87.3217 |
+| DKK | XAF | sell | 88.2028 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 776.0082 |
-| GBP | XAF | sell | 779.097 |
-| JPY | XAF | buy | 3.6764 |
-| JPY | XAF | sell | 3.7136 |
-| MAD | XAF | buy | 59.4283 |
-| MAD | XAF | sell | 60.0261 |
-| SAR | XAF | buy | 154.9309 |
-| SAR | XAF | sell | 156.5028 |
-| SEK | XAF | buy | 58.7236 |
-| SEK | XAF | sell | 59.3244 |
-| USD | XAF | buy | 581.5964 |
-| USD | XAF | sell | 586.5835 |
-| ZAR | XAF | buy | 35.4618 |
-| ZAR | XAF | sell | 35.8345 |
+| GBP | XAF | buy | 778.0618 |
+| GBP | XAF | sell | 785.9285 |
+| JPY | XAF | buy | 3.6772 |
+| JPY | XAF | sell | 3.7144 |
+| MAD | XAF | buy | 59.3343 |
+| MAD | XAF | sell | 59.9568 |
+| SAR | XAF | buy | 155.0266 |
+| SAR | XAF | sell | 156.6181 |
+| SEK | XAF | buy | 58.6987 |
+| SEK | XAF | sell | 59.2993 |
+| USD | XAF | buy | 581.9905 |
+| USD | XAF | sell | 586.9952 |
+| ZAR | XAF | buy | 35.4089 |
+| ZAR | XAF | sell | 35.7814 |
 
 </details>
 
