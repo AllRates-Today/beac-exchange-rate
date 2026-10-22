@@ -47,36 +47,36 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-21 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-21.</summary>
+<summary>Table as text: published 2026-10-22 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-22.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 158.3745 |
-| AED | XAF | sell | 159.9701 |
-| CAD | XAF | buy | 413.7651 |
-| CAD | XAF | sell | 417.9527 |
-| CHF | XAF | buy | 705.0558 |
-| CHF | XAF | sell | 712.2188 |
-| CNY | XAF | buy | 87.0538 |
-| CNY | XAF | sell | 87.9968 |
-| DKK | XAF | buy | 87.3217 |
-| DKK | XAF | sell | 88.2028 |
+| AED | XAF | buy | 158.0677 |
+| AED | XAF | sell | 159.6563 |
+| CAD | XAF | buy | 414.1904 |
+| CAD | XAF | sell | 418.385 |
+| CHF | XAF | buy | 708.2539 |
+| CHF | XAF | sell | 715.4342 |
+| CNY | XAF | buy | 86.9506 |
+| CNY | XAF | sell | 87.8924 |
+| DKK | XAF | buy | 87.3089 |
+| DKK | XAF | sell | 88.1899 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 778.0618 |
-| GBP | XAF | sell | 785.9285 |
-| JPY | XAF | buy | 3.6772 |
-| JPY | XAF | sell | 3.7144 |
-| MAD | XAF | buy | 59.3343 |
-| MAD | XAF | sell | 59.9568 |
-| SAR | XAF | buy | 155.0266 |
-| SAR | XAF | sell | 156.6181 |
-| SEK | XAF | buy | 58.6987 |
-| SEK | XAF | sell | 59.2993 |
-| USD | XAF | buy | 581.9905 |
-| USD | XAF | sell | 586.9952 |
-| ZAR | XAF | buy | 35.4089 |
-| ZAR | XAF | sell | 35.7814 |
+| GBP | XAF | buy | 778.1639 |
+| GBP | XAF | sell | 786.0503 |
+| JPY | XAF | buy | 3.6993 |
+| JPY | XAF | sell | 3.737 |
+| MAD | XAF | buy | 59.3813 |
+| MAD | XAF | sell | 60.0064 |
+| SAR | XAF | buy | 154.7398 |
+| SAR | XAF | sell | 156.3284 |
+| SEK | XAF | buy | 58.7125 |
+| SEK | XAF | sell | 59.3132 |
+| USD | XAF | buy | 581.1103 |
+| USD | XAF | sell | 586.1558 |
+| ZAR | XAF | buy | 35.2556 |
+| ZAR | XAF | sell | 35.6248 |
 
 </details>
 
