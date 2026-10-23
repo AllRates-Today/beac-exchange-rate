@@ -47,36 +47,36 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-22 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-22.</summary>
+<summary>Table as text: published 2026-10-23 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-23.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 158.0677 |
-| AED | XAF | sell | 159.6563 |
-| CAD | XAF | buy | 414.1904 |
-| CAD | XAF | sell | 418.385 |
-| CHF | XAF | buy | 708.2539 |
-| CHF | XAF | sell | 715.4342 |
-| CNY | XAF | buy | 86.9506 |
-| CNY | XAF | sell | 87.8924 |
-| DKK | XAF | buy | 87.3089 |
-| DKK | XAF | sell | 88.1899 |
+| AED | XAF | buy | 158.6054 |
+| AED | XAF | sell | 160.1994 |
+| CAD | XAF | buy | 415.7656 |
+| CAD | XAF | sell | 420.0004 |
+| CHF | XAF | buy | 707.7854 |
+| CHF | XAF | sell | 715.1237 |
+| CNY | XAF | buy | 87.2715 |
+| CNY | XAF | sell | 88.2158 |
+| DKK | XAF | buy | 87.3123 |
+| DKK | XAF | sell | 88.1946 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 778.1639 |
-| GBP | XAF | sell | 786.0503 |
-| JPY | XAF | buy | 3.6993 |
-| JPY | XAF | sell | 3.737 |
-| MAD | XAF | buy | 59.3813 |
-| MAD | XAF | sell | 60.0064 |
-| SAR | XAF | buy | 154.7398 |
-| SAR | XAF | sell | 156.3284 |
-| SEK | XAF | buy | 58.7125 |
-| SEK | XAF | sell | 59.3132 |
-| USD | XAF | buy | 581.1103 |
-| USD | XAF | sell | 586.1558 |
-| ZAR | XAF | buy | 35.2556 |
-| ZAR | XAF | sell | 35.6248 |
+| GBP | XAF | buy | 779.3906 |
+| GBP | XAF | sell | 787.4117 |
+| JPY | XAF | buy | 3.7086 |
+| JPY | XAF | sell | 3.7469 |
+| MAD | XAF | buy | 59.3127 |
+| MAD | XAF | sell | 59.9344 |
+| SAR | XAF | buy | 155.1739 |
+| SAR | XAF | sell | 156.7857 |
+| SEK | XAF | buy | 58.6951 |
+| SEK | XAF | sell | 59.3004 |
+| USD | XAF | buy | 582.5503 |
+| USD | XAF | sell | 587.5463 |
+| ZAR | XAF | buy | 35.2294 |
+| ZAR | XAF | sell | 35.6061 |
 
 </details>
 
