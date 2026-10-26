@@ -47,36 +47,36 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-23 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-23.</summary>
+<summary>Table as text: published 2026-10-26 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-26.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 158.6054 |
-| AED | XAF | sell | 160.1994 |
-| CAD | XAF | buy | 415.7656 |
-| CAD | XAF | sell | 420.0004 |
-| CHF | XAF | buy | 707.7854 |
-| CHF | XAF | sell | 715.1237 |
-| CNY | XAF | buy | 87.2715 |
-| CNY | XAF | sell | 88.2158 |
-| DKK | XAF | buy | 87.3123 |
-| DKK | XAF | sell | 88.1946 |
+| AED | XAF | buy | 158.4976 |
+| AED | XAF | sell | 160.0944 |
+| CAD | XAF | buy | 415.3159 |
+| CAD | XAF | sell | 419.5246 |
+| CHF | XAF | buy | 705.9939 |
+| CHF | XAF | sell | 713.1588 |
+| CNY | XAF | buy | 87.2749 |
+| CNY | XAF | sell | 88.1863 |
+| DKK | XAF | buy | 87.3193 |
+| DKK | XAF | sell | 88.1993 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 779.3906 |
-| GBP | XAF | sell | 787.4117 |
-| JPY | XAF | buy | 3.7086 |
-| JPY | XAF | sell | 3.7469 |
-| MAD | XAF | buy | 59.3127 |
-| MAD | XAF | sell | 59.9344 |
-| SAR | XAF | buy | 155.1739 |
-| SAR | XAF | sell | 156.7857 |
-| SEK | XAF | buy | 58.6951 |
-| SEK | XAF | sell | 59.3004 |
-| USD | XAF | buy | 582.5503 |
-| USD | XAF | sell | 587.5463 |
-| ZAR | XAF | buy | 35.2294 |
-| ZAR | XAF | sell | 35.6061 |
+| GBP | XAF | buy | 778.3588 |
+| GBP | XAF | sell | 786.2472 |
+| JPY | XAF | buy | 3.7067 |
+| JPY | XAF | sell | 3.7441 |
+| MAD | XAF | buy | 59.3402 |
+| MAD | XAF | sell | 59.9649 |
+| SAR | XAF | buy | 155.0892 |
+| SAR | XAF | sell | 156.6888 |
+| SEK | XAF | buy | 58.6207 |
+| SEK | XAF | sell | 59.221 |
+| USD | XAF | buy | 582.8813 |
+| USD | XAF | sell | 587.884 |
+| ZAR | XAF | buy | 35.0102 |
+| ZAR | XAF | sell | 35.3766 |
 
 </details>
 
