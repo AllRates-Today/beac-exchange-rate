@@ -47,36 +47,36 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-28 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-28.</summary>
+<summary>Table as text: published 2026-10-29 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-29.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 159.868 |
-| AED | XAF | sell | 161.4827 |
-| CAD | XAF | buy | 417.5878 |
-| CAD | XAF | sell | 421.8197 |
-| CHF | XAF | buy | 706.3071 |
-| CHF | XAF | sell | 713.4829 |
-| CNY | XAF | buy | 88.052 |
-| CNY | XAF | sell | 88.9706 |
-| DKK | XAF | buy | 87.3182 |
-| DKK | XAF | sell | 88.1993 |
+| AED | XAF | buy | 159.5359 |
+| AED | XAF | sell | 161.1432 |
+| CAD | XAF | buy | 418.7936 |
+| CAD | XAF | sell | 423.0406 |
+| CHF | XAF | buy | 707.3788 |
+| CHF | XAF | sell | 714.5578 |
+| CNY | XAF | buy | 87.937 |
+| CNY | XAF | sell | 88.8532 |
+| DKK | XAF | buy | 87.3276 |
+| DKK | XAF | sell | 88.2087 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 779.3998 |
-| GBP | XAF | sell | 787.2988 |
-| JPY | XAF | buy | 3.717 |
-| JPY | XAF | sell | 3.7546 |
-| MAD | XAF | buy | 59.5873 |
-| MAD | XAF | sell | 60.1906 |
-| SAR | XAF | buy | 156.4647 |
-| SAR | XAF | sell | 158.0562 |
-| SEK | XAF | buy | 58.9277 |
-| SEK | XAF | sell | 59.5312 |
-| USD | XAF | buy | 585.5304 |
-| USD | XAF | sell | 590.5684 |
-| ZAR | XAF | buy | 35.2119 |
-| ZAR | XAF | sell | 35.4679 |
+| GBP | XAF | buy | 780.2384 |
+| GBP | XAF | sell | 788.1459 |
+| JPY | XAF | buy | 3.7117 |
+| JPY | XAF | sell | 3.7493 |
+| MAD | XAF | buy | 59.5204 |
+| MAD | XAF | sell | 60.1219 |
+| SAR | XAF | buy | 156.1429 |
+| SAR | XAF | sell | 157.7272 |
+| SEK | XAF | buy | 59.1006 |
+| SEK | XAF | sell | 59.7076 |
+| USD | XAF | buy | 586.6574 |
+| USD | XAF | sell | 591.6988 |
+| ZAR | XAF | buy | 35.2309 |
+| ZAR | XAF | sell | 35.6 |
 
 </details>
 
@@ -242,6 +242,7 @@ The Bank of Central African States (BEAC) is the central bank of the six CEMAC c
 
 - Publisher's own page: [Taux indicatifs de change](https://www.beac.int/) · [www.beac.int](https://www.beac.int)
 - Publication: every business day; the exact schedule, freshness status and any current delay are on the [Bank of Central African States (BEAC) rates page](https://allratestoday.com/central-bank-rates-api/beac/)
+- In the API: usually by **09:20 UTC** (measured over the last 11 publications). Schedule a sync at or after that time and retry hourly until `rate_date` moves; every response carries the same figure as `available_by_utc` — see [when to poll](https://allratestoday.com/docs/#when-to-poll)
 - Values are stored unmodified, with the publisher's own `rate_date` on every row — see the [methodology](https://allratestoday.com/official-rates-methodology/)
 
 ## 🧭 Reading the numbers
