@@ -24,59 +24,44 @@
 
 Get a free API key at [allratestoday.com/register](https://allratestoday.com/register) — no credit card required. Latest rates are on every plan, including free.
 
-## ⚡ Try it without a key
-
-The latest Bank of Central African States (BEAC) table is also served keyless, CORS-open and edge-cached, for evaluation, embeds and AI agents:
-
-```bash
-curl "https://allratestoday.com/api/open/central-bank/beac?source=USD&target=XAF"
-```
-
-```js
-const r = await fetch('https://allratestoday.com/api/open/central-bank/beac').then((x) => x.json());
-console.log(r.rate_date, r.rates.length); // the central bank's latest published table, no key
-```
-
-The open endpoint serves the *latest* table only (JSON by default; add `?format=csv`, `xml` or `xlsx` for a file) and is free to use with a visible, followable link where the rates are shown: `<a href="https://allratestoday.com">Exchange rates by AllRatesToday</a>` (terms: <https://allratestoday.com/terms/#attribution>). The client below uses the keyed API, which adds point-in-time tables and history; with a key the link is appreciated, not required.
-
 ## 📈 Latest published table
 
 [![Latest Bank of Central African States (BEAC) table](https://allratestoday.com/api/open/central-bank/beac/table.svg)](https://allratestoday.com/central-bank-rates-api/beac/)
 
-The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The same table as text is folded below for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
+The image is rendered live from the keyless endpoint, so it follows the central bank's publications on npm and on GitHub alike without a new release. The same table as text is folded below for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-29 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-29.</summary>
+<summary>Table as text: published 2026-10-30 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-10-30.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 159.5359 |
-| AED | XAF | sell | 161.1432 |
-| CAD | XAF | buy | 418.7936 |
-| CAD | XAF | sell | 423.0406 |
-| CHF | XAF | buy | 707.3788 |
-| CHF | XAF | sell | 714.5578 |
-| CNY | XAF | buy | 87.937 |
-| CNY | XAF | sell | 88.8532 |
-| DKK | XAF | buy | 87.3276 |
-| DKK | XAF | sell | 88.2087 |
+| AED | XAF | buy | 158.868 |
+| AED | XAF | sell | 160.4725 |
+| CAD | XAF | buy | 417.7027 |
+| CAD | XAF | sell | 421.9359 |
+| CHF | XAF | buy | 709.3469 |
+| CHF | XAF | sell | 716.5539 |
+| CNY | XAF | buy | 87.6277 |
+| CNY | XAF | sell | 88.5499 |
+| DKK | XAF | buy | 87.3299 |
+| DKK | XAF | sell | 88.2123 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 780.2384 |
-| GBP | XAF | sell | 788.1459 |
-| JPY | XAF | buy | 3.7117 |
-| JPY | XAF | sell | 3.7493 |
-| MAD | XAF | buy | 59.5204 |
-| MAD | XAF | sell | 60.1219 |
-| SAR | XAF | buy | 156.1429 |
-| SAR | XAF | sell | 157.7272 |
-| SEK | XAF | buy | 59.1006 |
-| SEK | XAF | sell | 59.7076 |
-| USD | XAF | buy | 586.6574 |
-| USD | XAF | sell | 591.6988 |
-| ZAR | XAF | buy | 35.2309 |
-| ZAR | XAF | sell | 35.6 |
+| GBP | XAF | buy | 781.9303 |
+| GBP | XAF | sell | 789.8457 |
+| JPY | XAF | buy | 3.7015 |
+| JPY | XAF | sell | 3.7389 |
+| MAD | XAF | buy | 59.4505 |
+| MAD | XAF | sell | 60.0759 |
+| SAR | XAF | buy | 155.4696 |
+| SAR | XAF | sell | 157.0621 |
+| SEK | XAF | buy | 59.3883 |
+| SEK | XAF | sell | 59.9966 |
+| USD | XAF | buy | 585.9505 |
+| USD | XAF | sell | 590.9909 |
+| ZAR | XAF | buy | 35.08 |
+| ZAR | XAF | sell | 35.8014 |
 
 </details>
 
