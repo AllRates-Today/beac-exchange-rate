@@ -32,36 +32,36 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-04 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-04.</summary>
+<summary>Table as text: published 2026-11-05 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-05.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 158.3246 |
-| AED | XAF | sell | 159.9158 |
-| CAD | XAF | buy | 416.0943 |
-| CAD | XAF | sell | 420.3163 |
-| CHF | XAF | buy | 711.0083 |
-| CHF | XAF | sell | 718.2246 |
-| CNY | XAF | buy | 87.0805 |
-| CNY | XAF | sell | 87.9921 |
-| DKK | XAF | buy | 87.324 |
-| DKK | XAF | sell | 88.2063 |
+| AED | XAF | buy | 157.8574 |
+| AED | XAF | sell | 159.444 |
+| CAD | XAF | buy | 415.7127 |
+| CAD | XAF | sell | 419.9255 |
+| CHF | XAF | buy | 711.7915 |
+| CHF | XAF | sell | 719.0315 |
+| CNY | XAF | buy | 86.9113 |
+| CNY | XAF | sell | 87.8198 |
+| DKK | XAF | buy | 87.3146 |
+| DKK | XAF | sell | 88.1969 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 782.5303 |
-| GBP | XAF | sell | 790.4612 |
-| JPY | XAF | buy | 3.6764 |
-| JPY | XAF | sell | 3.7136 |
-| MAD | XAF | buy | 59.3095 |
-| MAD | XAF | sell | 59.923 |
-| SAR | XAF | buy | 154.8977 |
-| SAR | XAF | sell | 156.4619 |
-| SEK | XAF | buy | 59.5644 |
-| SEK | XAF | sell | 60.1763 |
-| USD | XAF | buy | 583.5519 |
-| USD | XAF | sell | 588.5633 |
-| ZAR | XAF | buy | 35.1448 |
-| ZAR | XAF | sell | 35.519 |
+| GBP | XAF | buy | 782.1458 |
+| GBP | XAF | sell | 790.0634 |
+| JPY | XAF | buy | 3.6701 |
+| JPY | XAF | sell | 3.7073 |
+| MAD | XAF | buy | 59.3969 |
+| MAD | XAF | sell | 60.0125 |
+| SAR | XAF | buy | 154.4542 |
+| SAR | XAF | sell | 156.0213 |
+| SEK | XAF | buy | 59.6663 |
+| SEK | XAF | sell | 60.2824 |
+| USD | XAF | buy | 579.8604 |
+| USD | XAF | sell | 584.8467 |
+| ZAR | XAF | buy | 35.4157 |
+| ZAR | XAF | sell | 35.7939 |
 
 </details>
 
