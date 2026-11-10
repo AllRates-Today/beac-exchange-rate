@@ -32,36 +32,36 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-05 by Bank of Central African States (BEAC) (the API currently flags this table as stale) — 26 rates. Updated 2026-11-10.</summary>
+<summary>Table as text: published 2026-11-10 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-10.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 157.8574 |
-| AED | XAF | sell | 159.444 |
-| CAD | XAF | buy | 415.7127 |
-| CAD | XAF | sell | 419.9255 |
-| CHF | XAF | buy | 711.7915 |
-| CHF | XAF | sell | 719.0315 |
-| CNY | XAF | buy | 86.9113 |
-| CNY | XAF | sell | 87.8198 |
-| DKK | XAF | buy | 87.3146 |
-| DKK | XAF | sell | 88.1969 |
+| AED | XAF | buy | 158.2286 |
+| AED | XAF | sell | 159.8266 |
+| CAD | XAF | buy | 411.8383 |
+| CAD | XAF | sell | 416.0115 |
+| CHF | XAF | buy | 710.3815 |
+| CHF | XAF | sell | 717.5913 |
+| CNY | XAF | buy | 87.1165 |
+| CNY | XAF | sell | 88.0226 |
+| DKK | XAF | buy | 87.3123 |
+| DKK | XAF | sell | 88.1946 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 782.1458 |
-| GBP | XAF | sell | 790.0634 |
-| JPY | XAF | buy | 3.6701 |
-| JPY | XAF | sell | 3.7073 |
-| MAD | XAF | buy | 59.3969 |
-| MAD | XAF | sell | 60.0125 |
-| SAR | XAF | buy | 154.4542 |
-| SAR | XAF | sell | 156.0213 |
-| SEK | XAF | buy | 59.6663 |
-| SEK | XAF | sell | 60.2824 |
-| USD | XAF | buy | 579.8604 |
-| USD | XAF | sell | 584.8467 |
-| ZAR | XAF | buy | 35.4157 |
-| ZAR | XAF | sell | 35.7939 |
+| GBP | XAF | buy | 781.7055 |
+| GBP | XAF | sell | 789.6187 |
+| JPY | XAF | buy | 3.6789 |
+| JPY | XAF | sell | 3.7161 |
+| MAD | XAF | buy | 59.6657 |
+| MAD | XAF | sell | 60.2692 |
+| SAR | XAF | buy | 154.8317 |
+| SAR | XAF | sell | 156.4025 |
+| SEK | XAF | buy | 59.3823 |
+| SEK | XAF | sell | 59.9912 |
+| USD | XAF | buy | 583.3951 |
+| USD | XAF | sell | 588.4023 |
+| ZAR | XAF | buy | 35.4915 |
+| ZAR | XAF | sell | 35.8643 |
 
 </details>
 
