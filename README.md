@@ -32,7 +32,7 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-05 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-05.</summary>
+<summary>Table as text: published 2026-11-05 by Bank of Central African States (BEAC) (the API currently flags this table as stale) — 26 rates. Updated 2026-11-10.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
