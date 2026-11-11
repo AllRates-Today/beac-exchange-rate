@@ -32,36 +32,36 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-10 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-10.</summary>
+<summary>Table as text: published 2026-11-11 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-11.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 158.2286 |
-| AED | XAF | sell | 159.8266 |
-| CAD | XAF | buy | 411.8383 |
-| CAD | XAF | sell | 416.0115 |
-| CHF | XAF | buy | 710.3815 |
-| CHF | XAF | sell | 717.5913 |
-| CNY | XAF | buy | 87.1165 |
-| CNY | XAF | sell | 88.0226 |
-| DKK | XAF | buy | 87.3123 |
-| DKK | XAF | sell | 88.1946 |
+| AED | XAF | buy | 159.2828 |
+| AED | XAF | sell | 160.8875 |
+| CAD | XAF | buy | 411.8253 |
+| CAD | XAF | sell | 416.001 |
+| CHF | XAF | buy | 707.8238 |
+| CHF | XAF | sell | 715.0151 |
+| CNY | XAF | buy | 87.6312 |
+| CNY | XAF | sell | 88.5476 |
+| DKK | XAF | buy | 87.3089 |
+| DKK | XAF | sell | 88.1911 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 781.7055 |
-| GBP | XAF | sell | 789.6187 |
-| JPY | XAF | buy | 3.6789 |
-| JPY | XAF | sell | 3.7161 |
-| MAD | XAF | buy | 59.6657 |
-| MAD | XAF | sell | 60.2692 |
-| SAR | XAF | buy | 154.8317 |
-| SAR | XAF | sell | 156.4025 |
-| SEK | XAF | buy | 59.3823 |
-| SEK | XAF | sell | 59.9912 |
-| USD | XAF | buy | 583.3951 |
-| USD | XAF | sell | 588.4023 |
-| ZAR | XAF | buy | 35.4915 |
-| ZAR | XAF | sell | 35.8643 |
+| GBP | XAF | buy | 780.4437 |
+| GBP | XAF | sell | 788.3627 |
+| JPY | XAF | buy | 3.6837 |
+| JPY | XAF | sell | 3.7211 |
+| MAD | XAF | buy | 59.7455 |
+| MAD | XAF | sell | 60.3658 |
+| SAR | XAF | buy | 155.8558 |
+| SAR | XAF | sell | 157.4447 |
+| SEK | XAF | buy | 59.2126 |
+| SEK | XAF | sell | 59.8197 |
+| USD | XAF | buy | 581.7606 |
+| USD | XAF | sell | 586.7678 |
+| ZAR | XAF | buy | 35.411 |
+| ZAR | XAF | sell | 35.7853 |
 
 </details>
 
