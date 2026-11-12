@@ -32,36 +32,36 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-11 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-11.</summary>
+<summary>Table as text: published 2026-11-12 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-12.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 159.2828 |
-| AED | XAF | sell | 160.8875 |
-| CAD | XAF | buy | 411.8253 |
-| CAD | XAF | sell | 416.001 |
-| CHF | XAF | buy | 707.8238 |
-| CHF | XAF | sell | 715.0151 |
-| CNY | XAF | buy | 87.6312 |
-| CNY | XAF | sell | 88.5476 |
-| DKK | XAF | buy | 87.3089 |
-| DKK | XAF | sell | 88.1911 |
+| AED | XAF | buy | 160.426 |
+| AED | XAF | sell | 162.0463 |
+| CAD | XAF | buy | 413.2883 |
+| CAD | XAF | sell | 417.4763 |
+| CHF | XAF | buy | 707.3329 |
+| CHF | XAF | sell | 714.5191 |
+| CNY | XAF | buy | 88.3405 |
+| CNY | XAF | sell | 89.2718 |
+| DKK | XAF | buy | 87.31 |
+| DKK | XAF | sell | 88.1922 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 780.4437 |
-| GBP | XAF | sell | 788.3627 |
-| JPY | XAF | buy | 3.6837 |
-| JPY | XAF | sell | 3.7211 |
-| MAD | XAF | buy | 59.7455 |
-| MAD | XAF | sell | 60.3658 |
-| SAR | XAF | buy | 155.8558 |
-| SAR | XAF | sell | 157.4447 |
-| SEK | XAF | buy | 59.2126 |
-| SEK | XAF | sell | 59.8197 |
-| USD | XAF | buy | 581.7606 |
-| USD | XAF | sell | 586.7678 |
-| ZAR | XAF | buy | 35.411 |
-| ZAR | XAF | sell | 35.7853 |
+| GBP | XAF | buy | 781.2564 |
+| GBP | XAF | sell | 787.8897 |
+| JPY | XAF | buy | 3.6862 |
+| JPY | XAF | sell | 3.7234 |
+| MAD | XAF | buy | 60.0118 |
+| MAD | XAF | sell | 60.6306 |
+| SAR | XAF | buy | 156.9804 |
+| SAR | XAF | sell | 158.5924 |
+| SEK | XAF | buy | 59.0114 |
+| SEK | XAF | sell | 59.6168 |
+| USD | XAF | buy | 584.3715 |
+| USD | XAF | sell | 591.1184 |
+| ZAR | XAF | buy | 35.3889 |
+| ZAR | XAF | sell | 35.7616 |
 
 </details>
 
