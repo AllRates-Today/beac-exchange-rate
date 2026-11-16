@@ -32,36 +32,36 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-13 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-15.</summary>
+<summary>Table as text: published 2026-11-16 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-16.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 160.5918 |
-| AED | XAF | sell | 162.2098 |
-| CAD | XAF | buy | 413.6759 |
-| CAD | XAF | sell | 417.8679 |
-| CHF | XAF | buy | 706.2077 |
-| CHF | XAF | sell | 713.3826 |
-| CNY | XAF | buy | 88.4003 |
-| CNY | XAF | sell | 89.3263 |
-| DKK | XAF | buy | 87.31 |
-| DKK | XAF | sell | 88.1911 |
+| AED | XAF | buy | 161.2823 |
+| AED | XAF | sell | 162.9073 |
+| CAD | XAF | buy | 414.9172 |
+| CAD | XAF | sell | 419.1245 |
+| CHF | XAF | buy | 705.8183 |
+| CHF | XAF | sell | 712.9736 |
+| CNY | XAF | buy | 88.7912 |
+| CNY | XAF | sell | 89.7178 |
+| DKK | XAF | buy | 87.3054 |
+| DKK | XAF | sell | 88.1851 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 780.6676 |
-| GBP | XAF | sell | 788.5796 |
-| JPY | XAF | buy | 3.6894 |
-| JPY | XAF | sell | 3.7268 |
-| MAD | XAF | buy | 59.769 |
-| MAD | XAF | sell | 60.3913 |
-| SAR | XAF | buy | 157.1428 |
-| SAR | XAF | sell | 158.7566 |
-| SEK | XAF | buy | 58.8756 |
-| SEK | XAF | sell | 59.4791 |
-| USD | XAF | buy | 588.6664 |
-| USD | XAF | sell | 593.7231 |
-| ZAR | XAF | buy | 35.1745 |
-| ZAR | XAF | sell | 35.5456 |
+| GBP | XAF | buy | 782.2302 |
+| GBP | XAF | sell | 790.158 |
+| JPY | XAF | buy | 3.7132 |
+| JPY | XAF | sell | 3.751 |
+| MAD | XAF | buy | 59.4646 |
+| MAD | XAF | sell | 60.0918 |
+| SAR | XAF | buy | 157.8307 |
+| SAR | XAF | sell | 159.4362 |
+| SEK | XAF | buy | 58.7918 |
+| SEK | XAF | sell | 59.3939 |
+| USD | XAF | buy | 590.5705 |
+| USD | XAF | sell | 595.6444 |
+| ZAR | XAF | buy | 34.8886 |
+| ZAR | XAF | sell | 35.2529 |
 
 </details>
 
