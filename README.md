@@ -32,36 +32,36 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-17 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-17.</summary>
+<summary>Table as text: published 2026-11-18 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-18.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 161.4739 |
-| AED | XAF | sell | 163.1048 |
-| CAD | XAF | buy | 414.6299 |
-| CAD | XAF | sell | 418.8316 |
-| CHF | XAF | buy | 706.4753 |
-| CHF | XAF | sell | 713.6451 |
-| CNY | XAF | buy | 88.9606 |
-| CNY | XAF | sell | 89.8829 |
-| DKK | XAF | buy | 87.3112 |
-| DKK | XAF | sell | 88.1922 |
+| AED | XAF | buy | 161.8622 |
+| AED | XAF | sell | 163.4971 |
+| CAD | XAF | buy | 415.0649 |
+| CAD | XAF | sell | 419.2738 |
+| CHF | XAF | buy | 706.6665 |
+| CHF | XAF | sell | 713.846 |
+| CNY | XAF | buy | 89.1635 |
+| CNY | XAF | sell | 90.0929 |
+| DKK | XAF | buy | 87.3193 |
+| DKK | XAF | sell | 88.2016 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 782.4178 |
-| GBP | XAF | sell | 790.357 |
-| JPY | XAF | buy | 3.7236 |
-| JPY | XAF | sell | 3.7615 |
-| MAD | XAF | buy | 59.3889 |
-| MAD | XAF | sell | 60.0125 |
-| SAR | XAF | buy | 158.0333 |
-| SAR | XAF | sell | 159.6601 |
-| SEK | XAF | buy | 58.7817 |
-| SEK | XAF | sell | 59.3837 |
-| USD | XAF | buy | 592.5884 |
-| USD | XAF | sell | 597.6808 |
-| ZAR | XAF | buy | 34.9478 |
-| ZAR | XAF | sell | 35.3119 |
+| GBP | XAF | buy | 783.4133 |
+| GBP | XAF | sell | 791.3532 |
+| JPY | XAF | buy | 3.7336 |
+| JPY | XAF | sell | 3.7714 |
+| MAD | XAF | buy | 59.6685 |
+| MAD | XAF | sell | 60.2786 |
+| SAR | XAF | buy | 158.4437 |
+| SAR | XAF | sell | 160.0517 |
+| SEK | XAF | buy | 58.5881 |
+| SEK | XAF | sell | 59.187 |
+| USD | XAF | buy | 593.9609 |
+| USD | XAF | sell | 599.0684 |
+| ZAR | XAF | buy | 35.0146 |
+| ZAR | XAF | sell | 35.3823 |
 
 </details>
 
