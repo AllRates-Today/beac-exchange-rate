@@ -32,36 +32,36 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-19 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-19.</summary>
+<summary>Table as text: published 2026-11-20 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-20.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 161.9105 |
-| AED | XAF | sell | 163.5417 |
-| CAD | XAF | buy | 415.0518 |
-| CAD | XAF | sell | 419.2551 |
-| CHF | XAF | buy | 705.2234 |
-| CHF | XAF | sell | 712.3804 |
-| CNY | XAF | buy | 89.1842 |
-| CNY | XAF | sell | 90.1249 |
-| DKK | XAF | buy | 87.3205 |
-| DKK | XAF | sell | 88.2016 |
+| AED | XAF | buy | 161.75 |
+| AED | XAF | sell | 163.3756 |
+| CAD | XAF | buy | 414.8197 |
+| CAD | XAF | sell | 419.026 |
+| CHF | XAF | buy | 705.2996 |
+| CHF | XAF | sell | 712.4574 |
+| CNY | XAF | buy | 89.0189 |
+| CNY | XAF | sell | 89.9527 |
+| DKK | XAF | buy | 87.3193 |
+| DKK | XAF | sell | 88.2005 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 781.846 |
-| GBP | XAF | sell | 789.7795 |
-| JPY | XAF | buy | 3.726 |
-| JPY | XAF | sell | 3.7636 |
-| MAD | XAF | buy | 59.6674 |
-| MAD | XAF | sell | 60.3504 |
-| SAR | XAF | buy | 158.5207 |
-| SAR | XAF | sell | 160.1295 |
-| SEK | XAF | buy | 58.4941 |
-| SEK | XAF | sell | 59.0979 |
-| USD | XAF | buy | 595.4093 |
-| USD | XAF | sell | 600.5252 |
-| ZAR | XAF | buy | 34.4052 |
-| ZAR | XAF | sell | 34.7672 |
+| GBP | XAF | buy | 779.5022 |
+| GBP | XAF | sell | 787.4022 |
+| JPY | XAF | buy | 3.7315 |
+| JPY | XAF | sell | 3.7693 |
+| MAD | XAF | buy | 59.6194 |
+| MAD | XAF | sell | 60.2389 |
+| SAR | XAF | buy | 158.3438 |
+| SAR | XAF | sell | 159.9546 |
+| SEK | XAF | buy | 58.4218 |
+| SEK | XAF | sell | 59.0222 |
+| USD | XAF | buy | 593.411 |
+| USD | XAF | sell | 598.5192 |
+| ZAR | XAF | buy | 34.0053 |
+| ZAR | XAF | sell | 34.3629 |
 
 </details>
 
