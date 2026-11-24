@@ -32,36 +32,36 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-20 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-23.</summary>
+<summary>Table as text: published 2026-11-24 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-24.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 161.75 |
-| AED | XAF | sell | 163.3756 |
-| CAD | XAF | buy | 414.8197 |
-| CAD | XAF | sell | 419.026 |
-| CHF | XAF | buy | 705.2996 |
-| CHF | XAF | sell | 712.4574 |
-| CNY | XAF | buy | 89.0189 |
-| CNY | XAF | sell | 89.9527 |
+| AED | XAF | buy | 162.9615 |
+| AED | XAF | sell | 164.6034 |
+| CAD | XAF | buy | 417.0008 |
+| CAD | XAF | sell | 421.2268 |
+| CHF | XAF | buy | 710.6212 |
+| CHF | XAF | sell | 717.8335 |
+| CNY | XAF | buy | 89.8089 |
+| CNY | XAF | sell | 90.7552 |
 | DKK | XAF | buy | 87.3193 |
-| DKK | XAF | sell | 88.2005 |
+| DKK | XAF | sell | 88.2016 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 779.5022 |
-| GBP | XAF | sell | 787.4022 |
-| JPY | XAF | buy | 3.7315 |
-| JPY | XAF | sell | 3.7693 |
-| MAD | XAF | buy | 59.6194 |
-| MAD | XAF | sell | 60.2389 |
-| SAR | XAF | buy | 158.3438 |
-| SAR | XAF | sell | 159.9546 |
-| SEK | XAF | buy | 58.4218 |
-| SEK | XAF | sell | 59.0222 |
-| USD | XAF | buy | 593.411 |
-| USD | XAF | sell | 598.5192 |
-| ZAR | XAF | buy | 34.0053 |
-| ZAR | XAF | sell | 34.3629 |
+| GBP | XAF | buy | 780.425 |
+| GBP | XAF | sell | 788.3438 |
+| JPY | XAF | buy | 3.7579 |
+| JPY | XAF | sell | 3.7959 |
+| MAD | XAF | buy | 59.6324 |
+| MAD | XAF | sell | 60.2604 |
+| SAR | XAF | buy | 159.4774 |
+| SAR | XAF | sell | 161.1077 |
+| SEK | XAF | buy | 58.2967 |
+| SEK | XAF | sell | 58.8936 |
+| USD | XAF | buy | 595.3687 |
+| USD | XAF | sell | 600.4821 |
+| ZAR | XAF | buy | 34.3338 |
+| ZAR | XAF | sell | 34.6919 |
 
 </details>
 
