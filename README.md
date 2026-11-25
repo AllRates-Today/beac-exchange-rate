@@ -32,36 +32,36 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-24 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-24.</summary>
+<summary>Table as text: published 2026-11-25 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-25.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 162.9615 |
-| AED | XAF | sell | 164.6034 |
-| CAD | XAF | buy | 417.0008 |
-| CAD | XAF | sell | 421.2268 |
-| CHF | XAF | buy | 710.6212 |
-| CHF | XAF | sell | 717.8335 |
-| CNY | XAF | buy | 89.8089 |
-| CNY | XAF | sell | 90.7552 |
-| DKK | XAF | buy | 87.3193 |
-| DKK | XAF | sell | 88.2016 |
+| AED | XAF | buy | 162.4667 |
+| AED | XAF | sell | 164.1077 |
+| CAD | XAF | buy | 417.6412 |
+| CAD | XAF | sell | 421.8711 |
+| CHF | XAF | buy | 713.7296 |
+| CHF | XAF | sell | 720.9737 |
+| CNY | XAF | buy | 89.4189 |
+| CNY | XAF | sell | 90.3448 |
+| DKK | XAF | buy | 87.3217 |
+| DKK | XAF | sell | 88.2028 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 780.425 |
-| GBP | XAF | sell | 788.3438 |
-| JPY | XAF | buy | 3.7579 |
-| JPY | XAF | sell | 3.7959 |
-| MAD | XAF | buy | 59.6324 |
-| MAD | XAF | sell | 60.2604 |
-| SAR | XAF | buy | 159.4774 |
-| SAR | XAF | sell | 161.1077 |
-| SEK | XAF | buy | 58.2967 |
-| SEK | XAF | sell | 58.8936 |
-| USD | XAF | buy | 595.3687 |
-| USD | XAF | sell | 600.4821 |
-| ZAR | XAF | buy | 34.3338 |
-| ZAR | XAF | sell | 34.6919 |
+| GBP | XAF | buy | 780.593 |
+| GBP | XAF | sell | 788.5042 |
+| JPY | XAF | buy | 3.7461 |
+| JPY | XAF | sell | 3.7639 |
+| MAD | XAF | buy | 59.6308 |
+| MAD | XAF | sell | 60.256 |
+| SAR | XAF | buy | 159.0344 |
+| SAR | XAF | sell | 160.4296 |
+| SEK | XAF | buy | 58.0333 |
+| SEK | XAF | sell | 58.6296 |
+| USD | XAF | buy | 595.7122 |
+| USD | XAF | sell | 600.8256 |
+| ZAR | XAF | buy | 33.8687 |
+| ZAR | XAF | sell | 34.2249 |
 
 </details>
 
