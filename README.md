@@ -32,36 +32,36 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-25 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-25.</summary>
+<summary>Table as text: published 2026-11-26 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-26.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 162.4667 |
-| AED | XAF | sell | 164.1077 |
-| CAD | XAF | buy | 417.6412 |
-| CAD | XAF | sell | 421.8711 |
-| CHF | XAF | buy | 713.7296 |
-| CHF | XAF | sell | 720.9737 |
-| CNY | XAF | buy | 89.4189 |
-| CNY | XAF | sell | 90.3448 |
-| DKK | XAF | buy | 87.3217 |
-| DKK | XAF | sell | 88.2028 |
+| AED | XAF | buy | 162.023 |
+| AED | XAF | sell | 163.6554 |
+| CAD | XAF | buy | 418.5277 |
+| CAD | XAF | sell | 422.7719 |
+| CHF | XAF | buy | 715.5921 |
+| CHF | XAF | sell | 722.8553 |
+| CNY | XAF | buy | 89.3173 |
+| CNY | XAF | sell | 90.2422 |
+| DKK | XAF | buy | 87.3252 |
+| DKK | XAF | sell | 88.2052 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 780.593 |
-| GBP | XAF | sell | 788.5042 |
-| JPY | XAF | buy | 3.7461 |
-| JPY | XAF | sell | 3.7639 |
-| MAD | XAF | buy | 59.6308 |
-| MAD | XAF | sell | 60.256 |
-| SAR | XAF | buy | 159.0344 |
-| SAR | XAF | sell | 160.4296 |
-| SEK | XAF | buy | 58.0333 |
-| SEK | XAF | sell | 58.6296 |
-| USD | XAF | buy | 595.7122 |
-| USD | XAF | sell | 600.8256 |
-| ZAR | XAF | buy | 33.8687 |
-| ZAR | XAF | sell | 34.2249 |
+| GBP | XAF | buy | 779.8189 |
+| GBP | XAF | sell | 787.7316 |
+| JPY | XAF | buy | 3.7394 |
+| JPY | XAF | sell | 3.7774 |
+| MAD | XAF | buy | 59.527 |
+| MAD | XAF | sell | 60.157 |
+| SAR | XAF | buy | 158.6362 |
+| SAR | XAF | sell | 160.2579 |
+| SEK | XAF | buy | 58.1387 |
+| SEK | XAF | sell | 58.7366 |
+| USD | XAF | buy | 596.5233 |
+| USD | XAF | sell | 601.6551 |
+| ZAR | XAF | buy | 33.9444 |
+| ZAR | XAF | sell | 34.3031 |
 
 </details>
 
