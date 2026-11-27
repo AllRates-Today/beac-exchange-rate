@@ -32,36 +32,36 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-26 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-26.</summary>
+<summary>Table as text: published 2026-11-27 by Bank of Central African States (BEAC) — 26 rates. Updated 2026-11-27.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | XAF | buy | 162.023 |
-| AED | XAF | sell | 163.6554 |
-| CAD | XAF | buy | 418.5277 |
-| CAD | XAF | sell | 422.7719 |
-| CHF | XAF | buy | 715.5921 |
-| CHF | XAF | sell | 722.8553 |
-| CNY | XAF | buy | 89.3173 |
-| CNY | XAF | sell | 90.2422 |
-| DKK | XAF | buy | 87.3252 |
-| DKK | XAF | sell | 88.2052 |
+| AED | XAF | buy | 161.8422 |
+| AED | XAF | sell | 163.4768 |
+| CAD | XAF | buy | 417.9221 |
+| CAD | XAF | sell | 422.1682 |
+| CHF | XAF | buy | 713.0902 |
+| CHF | XAF | sell | 720.3357 |
+| CNY | XAF | buy | 89.3026 |
+| CNY | XAF | sell | 90.2347 |
+| DKK | XAF | buy | 87.3229 |
+| DKK | XAF | sell | 88.204 |
 | EUR | XAF | buy | 655.957 |
 | EUR | XAF | sell | 655.957 |
-| GBP | XAF | buy | 779.8189 |
-| GBP | XAF | sell | 787.7316 |
-| JPY | XAF | buy | 3.7394 |
-| JPY | XAF | sell | 3.7774 |
-| MAD | XAF | buy | 59.527 |
-| MAD | XAF | sell | 60.157 |
-| SAR | XAF | buy | 158.6362 |
-| SAR | XAF | sell | 160.2579 |
-| SEK | XAF | buy | 58.1387 |
-| SEK | XAF | sell | 58.7366 |
-| USD | XAF | buy | 596.5233 |
-| USD | XAF | sell | 601.6551 |
-| ZAR | XAF | buy | 33.9444 |
-| ZAR | XAF | sell | 34.3031 |
+| GBP | XAF | buy | 780.2011 |
+| GBP | XAF | sell | 784.8228 |
+| JPY | XAF | buy | 3.7311 |
+| JPY | XAF | sell | 3.7688 |
+| MAD | XAF | buy | 59.3683 |
+| MAD | XAF | sell | 59.9928 |
+| SAR | XAF | buy | 158.4552 |
+| SAR | XAF | sell | 160.0789 |
+| SEK | XAF | buy | 58.354 |
+| SEK | XAF | sell | 58.9546 |
+| USD | XAF | buy | 594.6832 |
+| USD | XAF | sell | 601.5578 |
+| ZAR | XAF | buy | 34.2002 |
+| ZAR | XAF | sell | 34.5598 |
 
 </details>
 
